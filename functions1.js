@@ -36,4 +36,5 @@ function printMax(firstNumber, secondNumber) {
   } else {
     console.log(secondNumber);
   }
-}printMax(36,25)
+}
+printMax(36, 25);
